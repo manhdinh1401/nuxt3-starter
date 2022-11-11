@@ -1,0 +1,6 @@
+@forward '../../../node_modules/element-plus/theme-chalk/src/dark/var' with (
+  $bg-color: (
+    'page': #0a0a0a,
+    'overlay': #1d1e1f,
+  )
+);
